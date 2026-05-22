@@ -18,6 +18,8 @@ export const ARABIC_GLOSSARY = {
   // Aqidah & Tauhid
   "أهل السنة والجماعة":  "Ahlus Sunnah wal Jamaah",
   "السلف الصالح":        "as-Salafus Shalih",
+  "الله":        "Allah",
+  "رب":        "Rabb",
   "البدعة":              "bid'ah",
   "التوحيد":             "tauhid",
   "الشرك":               "syirik",
