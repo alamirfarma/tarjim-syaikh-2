@@ -16,6 +16,12 @@
 
 export const ARABIC_GLOSSARY = {
   // Aqidah & Tauhid
+  "صلى الله وسلم عليه":"Semoga Allah senantiasa melimpahkan shalawat dan salam kepadanya",
+  "اما بعد":"Adapun setelahnya",
+  "لا اله الا الله":"tidak ada sesembahan yang berhak untuk disembah selain Allah",
+  "لا اله الا الله وحده لا شريك له":"tidak ada sesembahan yang berhak untuk disembah selain Allah semata, tidak ada sekutu bagi-Nya",
+  "الحمد لله رب العالمين":"Segala puji hanya bagi Allah Rabb semesta alam",
+  "بسم الله الرحمن الرحيم":"Dengan menyebut nama Allah Yang Maha Pemurah lagi Maha Penyayang",
   "أهل السنة والجماعة":  "Ahlus Sunnah wal Jamaah",
   "السلف الصالح":        "as-Salafus Shalih",
   "الله":        "Allah",
