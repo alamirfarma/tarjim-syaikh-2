@@ -16,6 +16,9 @@
 
 export const ARABIC_GLOSSARY = {
   // Aqidah & Tauhid
+  "ومن يضلل فلا هادي له":"dan siapapun yang Allah sesatkan maka tidak ada yang bisa memberikan petunjuk baginya",
+  "من يهده الله فلا مضل له":"siapapun yang Allah berikan petunjuk kepadanya maka tidak ada yang bisa menyesatkannya",
+  "ومن سيئات اعمالنا":"dan dari keburukan amal perbuatan kita",
   "ان الحمد لله":"Sesungguhnya segala pujian hanyalah milik Allah",
   "اللهم":"Ya Allah",
   "الدعوه":"doa/seruan",
