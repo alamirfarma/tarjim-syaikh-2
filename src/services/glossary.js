@@ -16,6 +16,7 @@
 
 export const ARABIC_GLOSSARY = {
   // Aqidah & Tauhid
+  "ان الحمد لله":"Sesungguhnya segala pujian hanyalah milik Allah",
   "اللهم":"Ya Allah",
   "الدعوه":"doa/seruan",
   "الله سبحانه وتعالى":"Allah subhanahu wata'ala",
